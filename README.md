@@ -1,8 +1,8 @@
 # projectbox-layout
 Python program for generating DXF (autocad) files for BitX40 project
 
-![Bitx40-front](bitx-front.jpg|width=150) 
-![Bitx40-back](bitx-back.jpg|width=150) 
+<img src="bitx-front.jpg" width="150"> 
+<img src="bitx-back.jpg" width="150"> 
 
 ## Description
 The python executable file, ProjectBox.py,  generates a set of 3 DXF (AutoCAD drawing files) that can be used for making your own BitX 40 project box.  The BitX40 is a two-board, 40 meter SSB transceiver produced by HFsignals - more information can be found at http://hfsigs.com. 
@@ -14,7 +14,7 @@ The three template file are:
 * pb_bottom.dxf - Template for Bottom Sheet
 * pb_front.dxf - Template for the Front Panel (can be used for cutting a separate front panel using a laser cutter)
 
-![pb_top](pb_top.jpg) 
+<img src="pb_top.jpg" width="100">
 ![pb_bottom](pb_bottom.jpg) 
 ![pb_front](pb_front.jpg) 
 
